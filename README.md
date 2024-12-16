@@ -23,7 +23,9 @@ This repository contains a simple Netflix website clone created using HTML and C
 ## Folder Structure
 
 ├── index.html       # Main HTML file
+
 ├── style.css        # Styling for the website
+
 └── assets           # Contains images and other media
 
 ## Screenshots
